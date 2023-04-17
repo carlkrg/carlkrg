@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying at Nova School of Business and Economics
-- 🌱 I’m currently learning using pythons machine learning libraries to generate insights on given data 
+- 🌱 I’m currently learning how to use Python's machine learning libraries to generate insights on given data.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
