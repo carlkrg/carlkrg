@@ -68,12 +68,12 @@
 
 <picture>
 <source 
-  srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlkrg&theme=github_dark"
+  srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlkrg&theme=github_dark&utcOffset=1"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlkrg&theme=github"
+  srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlkrg&theme=github&utcOffset=1"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlkrg" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlkrg&utcOffset=1" />
 </picture>
